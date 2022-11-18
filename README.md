@@ -35,4 +35,3 @@
 ---
 
 ### Activity
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pote99)](https://github.com/pote99/github-readme-stats)
