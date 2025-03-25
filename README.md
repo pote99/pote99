@@ -5,4 +5,6 @@
 <h3 align="center">✒️ Language ✒️</h3>
 <div align="center">
   <img src="https://img.shields.io/badge/c-A8B9CC.svg?style=for-the-badge&logo=c&logoColor=000000" />
+  <img src="https://img.shields.io/badge/c++-pink.svg?style=for-the-badge&logo=cplusplus&logoColor=000000" />
+  <img src="https://img.shields.io/badge/python-blue.svg?style=for-the-badge&logo=python&logoColor=000000" />
 </div>
